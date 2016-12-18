@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-apc-pdu",
+  "version": "1.0.0",
+  "description": "Control APC PDUs over HomeKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "homekit"
+  ],
+  "engines": {
+    "node": ">4.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoneMR/homebridge-apc-pdu.git"
+  },
+  "author": "Martin Rosinski",
+  "license": "ISC",
+  "dependencies": {
+    "apc-pdu-snmp": "^1.2.0"
+  }
+}
