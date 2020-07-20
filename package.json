@@ -21,6 +21,6 @@
   "author": "Martin Rosinski",
   "license": "ISC",
   "dependencies": {
-    "apc-pdu-snmp": "^1.2.0"
+    "apc-pdu-snmp": "nwops/apc-pdu-snmp"
   }
 }
